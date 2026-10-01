@@ -1,4 +1,20 @@
-E-Commerce Sales Analysis
+## Key Business Insights
+
+- Electronics generated the highest sales among the major product categories.
+- Laptops and monitors were among the highest-revenue products.
+- Regional analysis helps identify areas with stronger sales performance.
+- Payment method analysis provides insight into customer purchasing preferences.
+- Monthly sales analysis helps identify changes in revenue over time.
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Aggregation
+- Business Insights
+- Python Data Analysis
+- SQL Queries
+- Data VisualizationE-Commerce Sales Analysis
 
 Project Overview
 
