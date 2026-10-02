@@ -1,1 +1,49 @@
 
+E-COMMERCE SALES ANALYSIS – RESULTS
+
+1. SALES OVERVIEW
+- Total Orders: 20
+- Total Quantity Sold: 55
+- Total Revenue: ₹2,40,850
+
+2. CATEGORY-WISE SALES
+- Electronics: ₹1,83,750
+- Furniture: ₹42,000
+- Accessories: ₹15,100
+
+3. REGION-WISE SALES
+- West: ₹1,03,000
+- North: ₹86,850
+- South: ₹35,500
+- East: ₹15,500
+
+4. MONTHLY SALES
+- January 2026: ₹1,14,900
+- February 2026: ₹1,16,250
+- March 2026: ₹9,700
+
+5. TOP 5 PRODUCTS BY SALES
+- Laptop: ₹1,13,000
+- Monitor: ₹38,000
+- Office Chair: ₹21,900
+- Desk: ₹20,100
+- Webcam: ₹11,300
+
+6. SALES BY PAYMENT METHOD
+- Card: ₹1,20,200
+- UPI: ₹1,00,350
+- Cash: ₹20,300
+
+7. KEY INSIGHTS
+- Electronics generated the highest revenue.
+- Laptop was the top-selling product by revenue.
+- West region generated the highest regional sales.
+- February 2026 recorded the highest monthly sales.
+- Card was the highest-revenue payment method.
+
+8. TOOLS USED
+- Python
+- Pandas
+- Matplotlib
+- SQL
+- CSV Dataset
